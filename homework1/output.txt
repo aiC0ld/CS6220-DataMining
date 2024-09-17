@@ -1,0 +1,97 @@
+Data in combined_data_1.txt looks like this: 
+1:
+1488844,3,2005-09-06
+822109,5,2005-05-13
+885013,4,2005-10-19
+30878,4,2005-12-26
+
+Data in movie_titles.csv looks like this: 
+1,2003,Dinosaur Planet
+2,2004,Isle of Man TT 2004 Review
+3,1997,Character
+4,1994,Paula Abdul's Get Up & Dance
+5,2004,The Rise and Fall of ECW
+
+
+
+homework1
+
+1.
+The cardinality of the document given is 21
+
+2.
+All possible sets: [['ham', 'cheese'], ['ham', 'bread'], ['cheese', 'bread']]
+
+3.a.
+There are 100480507 total records of movie ratings.
+3.b.
+There are 480189 total unique users.
+3.c.
+The range of years that this data is valid over is [1999, 2005]
+
+4.a.
+There are 17359 movies with unique names.
+4.b.
+There are 5 movie names refer to four different movies.
+
+5.a.
+605 users rated exactly 200 movies.
+5.b.
+The lowest user id is 508
+{'Adaptation',
+ 'Amelie',
+ 'American Beauty',
+ 'Apocalypse Now',
+ 'Apocalypse Now Redux',
+ 'Band of Brothers',
+ 'Being John Malkovich',
+ 'Bowling for Columbine',
+ "Boys Don't Cry",
+ 'Cabaret',
+ 'Days of Wine and Roses',
+ 'Downfall',
+ 'Election',
+ 'Eternal Sunshine of the Spotless Mind',
+ 'Gandhi',
+ 'Garden State',
+ 'Good Will Hunting',
+ 'Harold and Maude',
+ 'High Fidelity',
+ 'L.A. Confidential',
+ 'Lord of the Rings: The Fellowship of the Ring',
+ 'Lord of the Rings: The Return of the King',
+ 'Lord of the Rings: The Return of the King: Extended Edition',
+ 'Lord of the Rings: The Two Towers',
+ 'Lord of the Rings: The Two Towers: Extended Edition',
+ 'Lost in Translation',
+ 'Maria Full of Grace',
+ 'Memento',
+ 'Minority Report',
+ 'Monster',
+ 'Monty Python and the Holy Grail',
+ "Monty Python's Life of Brian",
+ "Monty Python's The Meaning of Life: Special Edition",
+ 'Raging Bull',
+ 'Raising Arizona',
+ 'Roger & Me',
+ "Schindler's List",
+ 'Shakespeare in Love',
+ 'Sideways',
+ 'Super Size Me',
+ 'Taxi Driver',
+ 'The Accused',
+ 'The Lord of the Rings: The Fellowship of the Ring: Extended Edition',
+ 'The Manchurian Candidate',
+ 'The Pianist',
+ 'The Royal Tenenbaums',
+ 'The Shawshank Redemption: Special Edition',
+ 'The Silence of the Lambs',
+ 'The Usual Suspects',
+ 'This Is Spinal Tap',
+ 'Three Kings',
+ 'To Be and To Have',
+ 'To Die For',
+ 'Touching the Void',
+ 'Unforgiven',
+ 'Vietnam: A Television History',
+ 'Whale Rider'}
